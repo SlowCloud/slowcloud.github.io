@@ -6,14 +6,14 @@
     <description>Recent content in Posts on SlowCloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 13 Jan 2023 11:06:46 +0900</lastBuildDate><atom:link href="https://slowcloud.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 15:10:53 +0900</lastBuildDate><atom:link href="https://slowcloud.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://slowcloud.github.io/posts/first/</link>
-      <pubDate>Fri, 13 Jan 2023 11:06:46 +0900</pubDate>
+      <title>첫 게시글</title>
+      <link>https://slowcloud.github.io/posts/test/</link>
+      <pubDate>Mon, 16 Jan 2023 15:10:53 +0900</pubDate>
       
-      <guid>https://slowcloud.github.io/posts/first/</guid>
-      <description></description>
+      <guid>https://slowcloud.github.io/posts/test/</guid>
+      <description>블로그를 만들게 된 계기 내가 배운 내용이나 알게 된 것들, 또는 내 잡다한 생각들을 기록할 공간이 있었으면 해서 만들게 되었다. 그러면 네이버나 velog 같은 곳에서 블로그를 쓰면 되지 않느냐? 하는 질문이 나올 수 있는데, 우선 내 나름의 오기가 가장 큰 이유였고, 그 다음으로는 내 나름의 실력향상을 위해서 블로그를 따로 만들어 보기로 했다. 멋진 내용은 아니겠지만, 모쪼록 찾아온 사람들이 실망하며 돌아가지는 않도록 글을 적을 것이다.</description>
     </item>
     
   </channel>
